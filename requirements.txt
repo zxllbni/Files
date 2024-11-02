@@ -1,5 +1,9 @@
 aiohttp
-apscheduler
+pyrofork
 python-dotenv
 tgcrypto
-pyrogram==2.0.0
+motor
+aiofiles
+dnspython
+requests
+jinja2
